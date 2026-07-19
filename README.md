@@ -1,14 +1,14 @@
-#  Cybersecurity Portfolio — Salman
+# Network Security Labs — Salman
 
 Hands-on network security labs built in EVE-NG, covering Palo Alto firewall, Cisco ISE, and Fortinet FortiGate. Each lab includes topology diagrams, device configs, and troubleshooting notes.
 
->  Currently studying toward: **PCNSA** (Palo Alto) · **NSE 4** (Fortinet) · **Cisco ISE Specialist**
+&gt; Currently studying toward: **PCNSA** (Palo Alto) · **NSE 4** (Fortinet) · **Cisco ISE Specialist**
 
 ---
 
 ## 📁 Lab Index (15+ Labs Planned & In-Progress)
 
-###  Palo Alto Firewall (PAN-OS)
+### Palo Alto Firewall (PAN-OS)
 
 | # | Lab | Topics Covered | Status |
 |---|-----|---------------|--------|
@@ -21,7 +21,7 @@ Hands-on network security labs built in EVE-NG, covering Palo Alto firewall, Cis
 | 07 | GlobalProtect VPN | Portal, gateway, split tunnel | ⏳ Upcoming |
 | 08 | SSL Decryption | Forward proxy, exclusions | ⏳ Upcoming |
 
-###  Cisco ISE
+### Cisco ISE
 
 | # | Lab | Topics Covered | Status |
 |---|-----|---------------|--------|
@@ -29,7 +29,7 @@ Hands-on network security labs built in EVE-NG, covering Palo Alto firewall, Cis
 | 02 | RADIUS Authentication | Network devices, test auth | ⏳ Upcoming |
 | 03 | 802.1X Wired | Auth policy, switch config | ⏳ Upcoming |
 
-###  Fortinet FortiGate
+### Fortinet FortiGate
 
 | # | Lab | Topics Covered | Status |
 |---|-----|---------------|--------|
@@ -37,7 +37,7 @@ Hands-on network security labs built in EVE-NG, covering Palo Alto firewall, Cis
 | 02 | IPSec VPN | Site-to-site, IKEv2, tunnel monitor | ⏳ Upcoming |
 | 03 | Web Filtering & App Control | Security profiles, categories | ⏳ Upcoming |
 
-###  Multi-Vendor Integration
+### Multi-Vendor Integration
 
 | # | Lab | Topics Covered | Status |
 |---|-----|---------------|--------|
@@ -46,7 +46,7 @@ Hands-on network security labs built in EVE-NG, covering Palo Alto firewall, Cis
 
 ---
 
-##  Lab Environment
+## Lab Environment
 
 - **Platform:** EVE-NG Community Edition
 - **Palo Alto:** PAN-OS VM-Series
@@ -56,7 +56,7 @@ Hands-on network security labs built in EVE-NG, covering Palo Alto firewall, Cis
 
 ---
 
-##  Each Lab Contains
+## Each Lab Contains
 
 - `README.md` — objective, topology, steps, what broke & how I fixed it
 - `topology.png` / `.unl` — network diagram & EVE-NG topology files
@@ -65,7 +65,7 @@ Hands-on network security labs built in EVE-NG, covering Palo Alto firewall, Cis
 
 ---
 
-##  How to Navigate
+## How to Navigate
 
 Each vendor has its own folder (e.g., `palo-alto-labs`). Inside each folder, labs are numbered in order of complexity — start from `01` and work forward.
 
